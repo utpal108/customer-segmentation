@@ -1,0 +1,22 @@
+Timestamp,Name,Gender,Location,Preferred product type,Preferred brand,Times of shop in a month,Maximum amount  spend on single order,Maximum amount expend on each month,Acceptable number of delivery days,Type of offer you like most
+5/2/2022 16:57:25,Vikas,Male,Bihar,Fashion,Others,2 -5,500 - 1500,1000 - 5000,2 - 3 Days,Discount On Price
+5/2/2022 16:57:42,Sagnik Bhattacharya,Male,West Bengal,Electronics,Sony,2 -5,Less than 500,1000 - 5000,2 - 3 Days,Discount On Price
+5/2/2022 17:04:09,Raj,Male,Jharkhand,Electronics,Samsung,1 or Less than 1,More than 5000,More than 10000,2 - 3 Days,Product Purchase on Installement
+5/2/2022 17:05:04,Madhusudhan ,Male,Andhra Pradesh,Electronics,Sony,1 or Less than 1,500 - 1500,1000 - 5000,2 - 3 Days,Discount On Price
+5/2/2022 17:06:43,Rahul Pathak,Male,Bihar,Electronics,Samsung,2 -5,500 - 1500,1000 - 5000,3 - 5 Days,Discount On Price
+5/2/2022 17:06:55,Hari Krishna D R ,Male,Karnataka,Fashion,Others,2 -5,3001 - 5000,5001 - 10000,2 - 3 Days,Discount On Price
+5/2/2022 17:08:03,Mukesh Ambani S S,Male,Others,Groceries,Others,6-8,1501 - 3000,More than 10000,1 Day,Others
+5/2/2022 17:09:09,Rani ,Female,Kerala,Baby Products,Johnson & Johnson,1 or Less than 1,500 - 1500,Less than 1000,2 - 3 Days,Discount On Price
+5/2/2022 17:09:31,Arathi,Female,Kerala,Books,Others,1 or Less than 1,500 - 1500,Less than 1000,3 - 5 Days,Discount On Price
+5/2/2022 17:18:05,Tushar,Male,Madhya Pradesh,Fashion,Others,2 -5,1501 - 3000,1000 - 5000,3 - 5 Days,Discount On Price
+5/2/2022 17:19:23,Chandra Sekhar,Male,Andhra Pradesh,Electronics,Sony,1 or Less than 1,500 - 1500,1000 - 5000,2 - 3 Days,Discount On Price
+5/2/2022 17:40:41,Y C Karthikreddy ,Male,Andhra Pradesh,Electronics,Samsung,1 or Less than 1,1501 - 3000,More than 10000,More than 5 days,Discount On Price
+5/2/2022 17:59:41,Shradha,Female,Others,Electronics,Samsung,2 -5,500 - 1500,1000 - 5000,2 - 3 Days,Discount On Price
+5/2/2022 18:03:07,Aishwarya ,Female,Madhya Pradesh,Fashion,Zara,1 or Less than 1,500 - 1500,1000 - 5000,More than 5 days,Discount On Price
+5/2/2022 18:03:09,Madhumati ,Female,Karnataka,Electronics,Samsung,1 or Less than 1,500 - 1500,1000 - 5000,3 - 5 Days,Discount On Price
+5/2/2022 18:08:41,Sakshi ,Female,Chhattisgarh,Electronics,Xiomai,2 -5,1501 - 3000,Less than 1000,3 - 5 Days,Discount On Price
+5/2/2022 18:10:20,Salman Sirumavilla,Male,Andhra Pradesh,Electronics,Samsung,1 or Less than 1,1501 - 3000,1000 - 5000,3 - 5 Days,Others
+5/2/2022 18:12:00,Ann,Female,Maharashtra,Books,Others,1 or Less than 1,1501 - 3000,1000 - 5000,2 - 3 Days,Discount On Price
+5/2/2022 19:13:28,Reola,Female,Goa,Baby Products,Zara,6-8,1501 - 3000,5001 - 10000,3 - 5 Days,Delivery on same day
+5/2/2022 20:33:05,Vikas Sharma,Male,Bihar,Others,Others,1 or Less than 1,Less than 500,Less than 1000,1 Day,Discount On Price
+5/3/2022 0:17:51,Digpal Singh,Male,Others,Electronics,Xiomai,More than 8,More than 5000,5001 - 10000,2 - 3 Days,Delivery on same day
